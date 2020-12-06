@@ -1,0 +1,78 @@
+,lga,number,cause
+0,Alpine,24,Tractor Accident
+1,Ararat,42,No
+2,Ballarat,70,Tractor Accident
+3,Banyule,2,No
+4,Bass Coast,48,Tractor Accident
+5,Baw Baw,138,Tractor Accident
+6,Bayside,2,No
+7,Benalla,16,Toxic
+8,Boroondara,4,No
+9,Brimbank,3,No
+10,Buloke,50,Tractor Accident
+11,Campaspe,108,Electrocution.
+12,Cardinia,69,Tractor Accident
+13,Casey,132,Tractor Accident
+14,Central Goldfields,10,No
+15,Colac-Otway,65,Struck
+16,Corangamite,132,Tractor Accident
+17,Darebin,4,No
+18,East Gippsland,147,Tractor Accident
+19,Frankston,6,No
+20,Gannawarra,43,Tractor Accident
+21,Glen Eira,1,Struck
+22,Glenelg,82,Fall
+23,Golden Plains,79,Tractor Accident
+24,Greater Bendigo,131,No
+25,Greater Dandenong,15,Tractor Accident
+26,Greater Geelong,82,Tractor Accident
+27,Greater Shepparton,181,Tractor Accident
+28,Hepburn,22,Tractor Accident
+29,Hindmarsh,16,Electrocution.
+30,Horsham,28,Fall
+31,Hume,5,No
+32,Indigo,20,Tractor Accident
+33,Interstate,36,No
+34,Kingston,15,No
+35,Knox,4,No
+36,Latrobe,79,Struck
+37,Loddon,40,Tractor Accident
+38,Macedon Ranges,79,Tractor Accident
+39,Manningham,9,Tractor Accident
+40,Mansfield,19,No
+41,Maribyrnong,4,No
+42,Melbourne,36,Struck
+43,Melton,19,No
+44,Mildura,83,Struck
+45,Mitchell,50,Animal
+46,Moira,111,Tractor Accident
+47,Monash,30,No
+48,Moonee Valley,3,No
+49,Moorabool,36,Fall
+50,Moreland,2,No
+51,Mornington Peninsula,119,Struck
+52,Mount Alexander,11,Tractor Accident
+53,Moyne,177,Tractor Accident
+54,Murrindindi,57,Struck
+55,Nillumbik,15,Tractor Accident
+56,Northern Grampians,20,Tractor Accident
+57,Port Phillip,24,No
+58,Pyrenees,11,Tractor Accident
+59,South Gippsland,117,Tractor Accident
+60,Southern Grampians,113,Burn
+61,Stonnington,1,No
+62,Strathbogie,81,Tractor Accident
+63,Surf Coast,13,No
+64,Swan Hill,113,Tractor Accident
+65,Towong,27,Tractor Accident
+66,Wangaratta,42,Tractor Accident
+67,Warrnambool,42,No
+68,Wellington,189,Tractor Accident
+69,West Wimmera,42,No
+70,Whitehorse,6,No
+71,Whittlesea,63,No
+72,Wodonga,13,Tractor Accident
+73,Wyndham,40,Tractor Accident
+74,Yarra,5,No
+75,Yarra Ranges,192,Tractor Accident
+76,Yarriambiack,16,Electrocution.

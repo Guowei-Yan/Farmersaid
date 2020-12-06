@@ -1,0 +1,46 @@
+{
+  "name": "farmersaid",
+  "version": "1.0.0",
+  "description": "Project developed for FIT5120 - Industry Experience",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node server.js --ignore public/",
+    "build": "webpack -w"
+  },
+  "author": "Team C22 - Sirius",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/node": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "axios": "^0.19.0",
+    "babel-loader": "^8.0.6",
+    "bootstrap": "^4.3.1",
+    "d3": "^3.5.17",
+    "express": "^4.17.1",
+    "fast-csv": "^3.4.0",
+    "file-loader": "^4.2.0",
+    "fs": "0.0.1-security",
+    "image-webpack-loader": "^5.0.0",
+    "jquery": "^3.4.1",
+    "json-loader": "^0.5.7",
+    "jspdf": "^1.5.3",
+    "jspdf-autotable": "^3.2.4",
+    "md5": "^2.2.1",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.1",
+    "popper.js": "^1.15.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-icons": "^3.7.0",
+    "react-router-dom": "^5.0.1",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  },
+  "devDependencies": {
+    "webpack-bundle-analyzer": "^3.5.2"
+  }
+}
